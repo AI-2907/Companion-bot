@@ -1,0 +1,16 @@
+2024-11-22 14:36:06,732 - NumExpr defaulting to 8 threads.
+2024-11-22 14:46:42,979 - Some parameters are on the meta device because they were offloaded to the cpu and disk.
+2024-11-22 14:50:36,657 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-11-22 14:50:39,552 - Use pytorch device_name: cpu
+2024-11-28 15:58:26,398 - Loading faiss with AVX512 support.
+2024-11-28 15:58:26,414 - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2024-11-28 15:58:26,414 - Loading faiss with AVX2 support.
+2024-11-28 15:58:26,642 - Successfully loaded faiss with AVX2 support.
+2024-11-28 16:00:49,015 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-11-28 16:00:52,968 - Use pytorch device_name: cpu
+2024-12-04 17:29:40,799 - Loading faiss with AVX512 support.
+2024-12-04 17:29:40,800 - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2024-12-04 17:29:40,800 - Loading faiss with AVX2 support.
+2024-12-04 17:29:40,864 - Successfully loaded faiss with AVX2 support.
